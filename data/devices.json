@@ -41,6 +41,17 @@
       "loggedInAt": "2026-10-23T15:36:13.232Z",
       "status": "online",
       "ip": "127.0.0.1"
+    },
+    {
+      "deviceId": "dev_mb7oud68_mvl5fc2q",
+      "deviceName": "Linux (Google Chrome)",
+      "deviceType": "desktop",
+      "browser": "Google Chrome",
+      "os": "Linux",
+      "lastActive": "2026-10-23T15:52:45.797Z",
+      "loggedInAt": "2026-10-23T15:52:45.797Z",
+      "status": "online",
+      "ip": "127.0.0.1"
     }
   ],
   "user_1792762804594_zu4c": [
